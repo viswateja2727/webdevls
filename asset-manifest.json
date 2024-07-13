@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webdevls/static/css/main.df51d86d.css",
+    "main.js": "/webdevls/static/js/main.2c215d5c.js",
+    "static/media/plus.png": "/webdevls/static/media/plus.f5d4d283910a71769470.png",
+    "static/media/delete.svg": "/webdevls/static/media/delete.c184eb9e41969d49b9cae112eb516337.svg",
+    "index.html": "/webdevls/index.html",
+    "main.df51d86d.css.map": "/webdevls/static/css/main.df51d86d.css.map",
+    "main.2c215d5c.js.map": "/webdevls/static/js/main.2c215d5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df51d86d.css",
+    "static/js/main.2c215d5c.js"
+  ]
+}
